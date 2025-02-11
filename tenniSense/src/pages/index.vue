@@ -1,7 +1,7 @@
 <template>
-  <HelloWorld />
+  <Button />
 </template>
 
-<script setup>
-  //
+<script setup lang="ts">
+import Button from "@/components/Button.vue";
 </script>
